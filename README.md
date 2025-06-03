@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Julius, I'm an entry level IT Professional
 
-<!--
-**jtjamak91/jtjamak91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Projects:
 
-Here are some ideas to get you started:
+Virtual Machines labs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dc-1
+
+vpn-test-win-10
+
+Microsoft Azure labs:
+
+Active Directory lab
+
+NetworkwatcherRG
+
+RG-network Activities
+
+VPN Test
+
